@@ -46,6 +46,5 @@
 
 # СКАЧАТЬ МОДУЛЬ 
 ```
-/module load AllcetrGD/justreport
 /module load AllcetrGD/justhands
 ```
